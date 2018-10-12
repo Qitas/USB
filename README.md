@@ -21,4 +21,4 @@ USB通信相关，包括驱动和示例代码
 
 2018-10-12: 新增HID源码，可用于定制相关USB外设
 
-[![sites](docs/qitas.png)](http://www.qitas.cn)
+[![sites](docs/qitas.jpg)](http://www.qitas.cn)
