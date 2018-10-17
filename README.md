@@ -1,10 +1,10 @@
-﻿[![sites](docs/Qi.png)](http://www.qitas.cn)
+﻿[![sites](qitas/Qi.png)](http://www.qitas.cn)
 
-# USB设备
+# USB
 
 ### 项目描述
 
-主要是针对window下的USB通信，可用于制作上位机控制软件
+主要是针对嵌入式设备和主机间的USB通信，可用于制作上位机控制软件
 
 ---
 
@@ -18,13 +18,17 @@ USB通信相关，包括必要的驱动和实现的代码
 
 针对STM32 VCP驱动，可到官网下载(https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-utilities/stsw-stm32102.html)
 
-####  HID
+####  win
 
-通过将USB外设生成HID设备，适配上位机软件进行通信，也可以生成对应的标准外设
+通过将USB外设生成HID设备，适配windows上位机软件进行通信，也可以生成对应的标准外设
+
+####  linux
+
+用于生成linux下的USB驱动
 
 ---
 ## 说明
 
-2018-10-12: 新增HID源码，可用于定制相关USB外设
+2018-10-17: 新增linux相关源码，删除了window下的固件，提供链接可以自己去官方下载
 
-[![sites](docs/qitas.jpg)](http://www.qitas.cn)
+[![sites](qitas/qitas.jpg)](http://www.qitas.cn)
