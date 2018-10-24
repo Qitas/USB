@@ -29,12 +29,15 @@ https://www.st.com/content/st_com/en/products/development-tools/software-develop
 
 ####  linux
 
-用于生成linux下的USB驱动
 
-- 添加sscom客户端
+- libusb 相关的USB驱动源码
+
+- hid设备通信源码
+
+- sscom串口客户端
 
 
 
 ---
 
-[![sites](qitas/qitas.jpg)](http://www.qitas.cn)
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
