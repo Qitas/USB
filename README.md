@@ -31,6 +31,10 @@ https://www.st.com/content/st_com/en/products/development-tools/software-develop
 
 用于生成linux下的USB驱动
 
+- 添加sscom客户端
+
+
+
 ---
 
 [![sites](qitas/qitas.jpg)](http://www.qitas.cn)
