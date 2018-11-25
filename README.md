@@ -1,6 +1,5 @@
 ﻿# [USB](https://github.com/qitas/USB) 
 
-基于STM32F103ZE单片机的播放设备
 
 ### qitas@qitas.cn
 
