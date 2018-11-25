@@ -1,10 +1,18 @@
-﻿# USB 通信
+﻿# [USB](https://github.com/qitas/USB) 
 
-### 项目描述
+基于STM32F103ZE单片机的播放设备
+
+### qitas@qitas.cn
+
+---
+
+## 描述
 
 针对嵌入式设备和主机间的USB通信，可用于制作上位机控制桌面软件
 
+
 ---
+
 
 ## 组成
 
@@ -17,7 +25,6 @@
 vc工程文件
 
 ####  android
-
 
 
 ---
@@ -54,6 +61,14 @@ STM32 VCP官方驱动：
 
 https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-utilities/stsw-stm32102.html
 
+
 ---
+
+## 为锻造最美之器
+
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
+
+
+
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
